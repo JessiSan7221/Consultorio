@@ -18,6 +18,9 @@
       >
       </iframe>
     </div>
+    <div>
+      <DesarrolloWeb />
+    </div>
   </section>
 </template>
 
@@ -42,4 +45,5 @@
 </style>
 <script>
 import Header from "@/components/Header.vue";
+import DesarrolloWeb from "~/components/DesarrolloWeb.vue";
 </script>
