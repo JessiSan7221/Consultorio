@@ -314,4 +314,5 @@ h2:hover{
 import fondo from "@/assets/images/fondo.webp";
 import Header from "@/components/Header.vue";
 import DesarrolloWeb from "~/components/DesarrolloWeb.vue";
+
 </script>

@@ -14,9 +14,9 @@
     <div class="mb-6 md:mb-0">
       <h3 class="text-lg font-bold uppercase text-white pb-2">Horarios de Atención</h3>
       <p class="italic text-gray-300">Presencial para todos los servicios</p>
-      <p><span class="text-yellow-400">Mar:</span> 1.00pm - 5.00pm</p>
-      <p><span class="text-yellow-400">Mié:</span> 1.00pm - 5.00pm</p>
-      <p><span class="text-yellow-400">Jue:</span> 1.00pm - 5.00pm</p>
+      <p><span class="text-yellow-400">Mar:</span> 1:00pm - 5:00pm</p>
+      <p><span class="text-yellow-400">Mié:</span> 1:00pm - 5:00pm</p>
+      <p><span class="text-yellow-400">Jue:</span> 1:00pm - 5:00pm</p>
     </div>
 
     <!-- Sección Logo y Redes Sociales -->
